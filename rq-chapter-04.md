@@ -110,10 +110,10 @@ GNOME 2 or to modify GNOME 3 significantly – what are the names of those proje
 
 17) Which of these statements are true in regards to Linux desktop environments? (choose all that
 apply)
-  a. **Desktop environments have a File Manager** (**TRUE**)
-  b. **Desktop Environments have start or action buttons and task and notification bars** (**TRUE**)
-  c. **Desktop environments have a changeable but consistent look-and-feel** (**TRUE**)
-  d. **Desktop environments have system configuration tools and user applications built in** (**TRUE**)
+  a. **Desktop environments have a File Manager** (**TRUE**) </br>
+  b. **Desktop Environments have start or action buttons and task and notification bars** (**TRUE**) </br>
+  c. **Desktop environments have a changeable but consistent look-and-feel** (**TRUE**) </br>
+  d. **Desktop environments have system configuration tools and user applications built in** (**TRUE**) </br>
   e.   Desktop environments have lower memory requirements than window managers (**FALSE**)
 
 
